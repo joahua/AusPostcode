@@ -1,7 +1,7 @@
 AusPostcode
 ================================
 
-AusPostcode collates two CC-BY 2.5 licensed documents to provide a legal alternative to the [AusPost postcode data](http://drc.edeliver.com.au/products-and-services/download-postcode-data.html).
+AusPostcode collates two CC-BY 2.5 licensed documents to provide a legal alternative to the [AusPost postcode data](http://auspost.com.au/products-and-services/download-postcode-data.html).
 
 Very helpfully, AusPost don't have an openly licensed version of their data - so, instead, the data is sourced from two Australian Bureau of Statistics docs and have been stripped down to just Suburb and Postcode.
 
